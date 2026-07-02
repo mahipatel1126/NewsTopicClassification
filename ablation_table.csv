@@ -1,0 +1,3 @@
+Model,Accuracy,F1
+DistilBERT (Week 3),0.9173,0.9168
+DistilBERT + Augmentation (Week 4),0.88025,0.8804538502480088

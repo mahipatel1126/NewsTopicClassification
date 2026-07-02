@@ -1,0 +1,4 @@
+Model,Accuracy
+TF-IDF + Logistic Regression,0.89
+TF-IDF + SVM,0.91
+DistilBERT,0.91675
