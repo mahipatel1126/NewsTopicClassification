@@ -12,4 +12,4 @@ transformers
 pandas
 numpy
 matplotlib
-openpyx1
+openpyxl
