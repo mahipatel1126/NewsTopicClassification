@@ -1,12 +1,6 @@
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-nltk
-datasets
-jupyter
 streamlit==1.32.0
 torch
 transformers
+pandas
+numpy
 openpyxl
